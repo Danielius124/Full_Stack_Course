@@ -1,3 +1,3 @@
 # Full_Stack_Course
 Full Stack Java Spring boot, React
-Mysql Redux
+Mysql Redux and more
